@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **MERN Stack,Data Structures and Alogorithms**
 
-- 👯 I Worked on [Forest Essentials Clone](awesome-joliot-5b2717.netlify.app/)
+- 👯 I Worked on [Forest Essentials Clone](http://awesome-joliot-5b2717.netlify.app/)
 
-- 🤝I Worked on [Pottery Barn Clone](potterybarn.herokuapp.com/)
+- 🤝I Worked on [Pottery Barn Clone](http://potterybarn.herokuapp.com/)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-paygudeaniket.vercel.app/](https://portfolio-paygudeaniket.vercel.app/)
 
