@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **paygudeaniket12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nNVW4YIuxQoK1FqxSXmrDOX0uYO_StI7/view](https://drive.google.com/file/d/1nNVW4YIuxQoK1FqxSXmrDOX0uYO_StI7/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nNVW4YIuxQoK1FqxSXmrDOX0uYO_StI7/view](https://drive.google.com/file/d/1klJl3vpPdtZj3qNvWfkmFm-7pajC0Oji/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
